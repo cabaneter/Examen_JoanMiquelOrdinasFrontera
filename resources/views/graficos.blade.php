@@ -57,7 +57,7 @@
                     plugins: {
                         title: {
                             display: true,
-                            text: 'Comparativo ventas 2020-2021'
+                            text: 'Ventas producto Z 2020-2021'
                         }
                     },
                     bezierCurve: false,
