@@ -1,7 +1,7 @@
 <x-app-layout>
     <x-slot name="header">
         <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-            {{ __(' ') }}
+            {{ __('Ventas producto Z 2020-2021') }}
             
         </h2>
     </x-slot>
